@@ -13,8 +13,7 @@ A lightweight command-line-based e-commerce simulation app built in Python. This
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -92,44 +91,12 @@ Kurti x1 = ₹785
 Total = ₹1475
 ----------------------------------------
 
-👨‍💻 Contributing
-Contributions are welcome!
-
-Fork the repository
-
-Create a new branch (git checkout -b feature-xyz)
-
-Commit your changes (git commit -am 'Add feature')
-
-Push to the branch (git push origin feature-xyz)
-
-Open a Pull Request
-
-🛡 License
-This project is licensed under the MIT License. See LICENSE file for details.
 
 🙌 Acknowledgements
 Inspired by real-world shopping workflows and guided by practical Python learning paths.
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by [Shamyuktha Senthilvel]
 
-markdown
-Copy
-Edit
 
----
 
-### ✅ Final Steps:
-1. Save the above as `README.md` in your root project folder.
-2. Update:
-   - `[Your Name]`
-   - GitHub repo URL (`your-username`)
-3. Optionally add `LICENSE`, `.gitignore`, and `requirements.txt` (even if empty for now).
-
-Let me know if you want:
-- GitHub workflow badges (build passing, stars, etc.)
-- Video demo/GIF of how to use it in terminal
-- `.py` packaging or `.exe` conversion
-
-Ready to deploy like a pro 🚀
 
