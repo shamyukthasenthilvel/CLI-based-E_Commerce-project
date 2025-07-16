@@ -58,7 +58,7 @@ This is a beginner-friendly, terminal-based Python project built as part of hand
 │  header.py             │ → Menu controller
 └────────────────────────┘
 
-🗂 Folder Structure:
+## 🗂 Folder Structure:
 📁 E_Commerce(Python)/
 │
 ├── 📄 main.py
@@ -70,14 +70,14 @@ This is a beginner-friendly, terminal-based Python project built as part of hand
 │   └── Invoice_<uuid>.txt   ← auto-generated invoice files
 └── 📄 README.md
 
-🛠 Installation:
+## 🛠 Installation:
 git clone https://github.com/your-username/python-ecommerce-store.git
 cd python-ecommerce-store
 
-▶️ Usage:
+## ▶️ Usage:
 python main.py
 
-🖼 Screenshots:
+## 🖼 Screenshots:
 Welcome to Amazon Great Indian Festival!
 Registration (r) / Login (l): l
 enter email: shamy@gmail.com
@@ -92,7 +92,7 @@ Total = ₹1475
 ----------------------------------------
 
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Inspired by real-world shopping workflows and guided by practical Python learning paths.
 
 Developed with ❤️ by [Shamyuktha Senthilvel]
