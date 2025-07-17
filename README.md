@@ -78,20 +78,10 @@ cd python-ecommerce-store
 python main.py
 
 ## 🖼 Screenshots:
-Welcome to Amazon Great Indian Festival!
-Registration (r) / Login (l): l
-enter email: shamy@gmail.com
-enter password: **********
 
-Admin Mode: Viewing All Orders
-----------------------------------------
-Invoice ID: 9a9a7...
-T-shirt x2 = ₹690
-Kurti x1 = ₹785
-Total = ₹1475
-----------------------------------------
+[Screenshot1](https://github.com/shamyukthasenthilvel/CLI-based-E_Commerce-project/blob/main/E-Commerce_screenshot1.mp4.png)
 
-
+[Screenshot2]()
 ## 🙌 Acknowledgements
 Inspired by real-world shopping workflows and guided by practical Python learning paths.
 
