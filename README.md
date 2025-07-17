@@ -81,7 +81,8 @@ python main.py
 
 [Screenshot1](E-Commerce_screenshot1.mp4.png)
 
-![Screenshot](E-Commerce_screenshot1.mp4.png)
+![Screenshot](https://raw.githubusercontent.com/shamyukthasenthilvel/CLI-based-E_Commerce-project/main/E-Commerce_screenshot1.mp4.png)
+
 ## 🙌 Acknowledgements
 Inspired by real-world shopping workflows and guided by practical Python learning paths.
 
