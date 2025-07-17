@@ -81,7 +81,7 @@ python main.py
 
 [Screenshot1](E-Commerce_screenshot1.mp4.png)
 
-[Screenshot2](E-Commerce_screenshot2.mp4.png)
+![Screenshot](E-Commerce_screenshot1.mp4.png)
 ## 🙌 Acknowledgements
 Inspired by real-world shopping workflows and guided by practical Python learning paths.
 
