@@ -57,8 +57,9 @@ This is a beginner-friendly, terminal-based Python project built as part of hand
 ├────────────────────────┤
 │  header.py             │ → Menu controller
 └────────────────────────┘
-
+```
 ## 🗂 Folder Structure:
+```
 📁 E_Commerce(Python)/
 │
 ├── 📄 main.py
@@ -69,7 +70,7 @@ This is a beginner-friendly, terminal-based Python project built as part of hand
 ├── 📁 Invoice/
 │   └── Invoice_<uuid>.txt   ← auto-generated invoice files
 └── 📄 README.md
-
+```
 ## 🛠 Installation:
 git clone https://github.com/your-username/python-ecommerce-store.git
 cd python-ecommerce-store
@@ -79,15 +80,15 @@ python main.py
 
 ## 🖼 Screenshots:
 
-[Screenshot1](E-Commerce_screenshot1.mp4.png)
+![Screenshot1](E-Commerce_screenshot1.mp4.png)
 
-![Screenshot](https://raw.githubusercontent.com/shamyukthasenthilvel/CLI-based-E_Commerce-project/main/E-Commerce_screenshot1.mp4.png)
+![Screenshot2](E-Commerce_screenshot2.mp4.png)
+
+## Project Outcomes
+
 
 ## 🙌 Acknowledgements
 Inspired by real-world shopping workflows and guided by practical Python learning paths.
 
 Developed with ❤️ by [Shamyuktha Senthilvel]
-
-
-
 
