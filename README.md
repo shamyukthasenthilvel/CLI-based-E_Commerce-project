@@ -79,9 +79,9 @@ python main.py
 
 ## 🖼 Screenshots:
 
-[Screenshot1](https://github.com/shamyukthasenthilvel/CLI-based-E_Commerce-project/blob/main/E-Commerce_screenshot1.mp4.png)
+[Screenshot1](E-Commerce_screenshot1.mp4.png)
 
-[Screenshot2](https://github.com/shamyukthasenthilvel/CLI-based-E_Commerce-project/blob/main/E-Commerce_screenshot2.mp4.png)
+[Screenshot2](E-Commerce_screenshot2.mp4.png)
 ## 🙌 Acknowledgements
 Inspired by real-world shopping workflows and guided by practical Python learning paths.
 
