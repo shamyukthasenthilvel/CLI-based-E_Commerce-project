@@ -6,7 +6,7 @@ A lightweight command-line-based e-commerce simulation app built in Python. This
 
 ## 📌 Table of Contents
 
-- [About](#about)
+- [About](#About)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Folder Structure](#folder-structure)
